@@ -162,17 +162,16 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Pedidos** | Equipos | pedido : LX-350, 2 OPTIPLEX 7010 SFF |
-| | Componentes | pedido : EC-PM-80330 |
-| **Cotizaciones** | Equipos | cotizar switch para distribucion |
-| | Seguimiento | seguimiento cotizacion mettler toledo |
-| **Licencias** | Windows | BUEN DIA SERA QUE ME PODRIAS APOYAR CON LA LICENCIA DE WINDO |
-| **Seguimiento** | Pedidos | revisar requisicion cc |
-| | Proveedores | seguimiento a corte de colorante |
-| **Sistemas** | Sicrop | revisar pedidos sicrop |
-| | Webcomex | instalacion de webcomex |
-| | Importador | seguimiento: importador corob |
-| **Gestión integra** | General | gestion integra |
+| **Pedidos** | Equipos | pedido : LX-350, 2 OPTIPLEX 7010 SFF | dias |
+| | Componentes | pedido : EC-PM-80330 | dias |
+| **Cotizaciones** | Equipos | cotizar switch para distribucion | 2h |
+| | Seguimiento | seguimiento cotizacion mettler toledo | dias |
+| **Licencias** | Windows | BUEN DIA SERA QUE ME PODRIAS APOYAR CON LA LICENCIA DE WINDO | dias |
+| **Seguimiento** | Pedidos | revisar requisicion cc | dias |
+| | Proveedores | seguimiento a corte de colorante | 1 dia |
+| **Sistemas** | Sicrop | revisar pedidos sicrop | horas |
+| | Webcomex | instalacion de webcomex | 30m |
+| **Gestión integra** | General | gestion integra | 1h |
 
 ---
 
@@ -180,14 +179,12 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Revisión** | Equipo | revisar magno 2, revisar equipo vs virus |
-| | Incidencia | revisar incidencia de hugo/luis |
-| | Tema general | revision de escrito |
-| **Seguimiento** | Proyecto | seguimiento equipo cedisxal |
-| | Cotización | seguimiento cotizacion |
-| | Proveedor | seguimiento: importador corob |
-| **Asesoría** | Correo | oye pregunta crees que este correo sea virus? |
-| | General | Te acuerdas de los datos de spark de Elizabeth? |
+| **Revisión** | Equipo | revisar magno 2, revisar equipo vs virus | 1h |
+| | Incidencia | revisar incidencia de hugo/luis | 15m |
+| **Seguimiento** | Proyecto | seguimiento equipo cedisxal | meses |
+| | Cotización | seguimiento cotizacion | dias |
+| **Asesoría** | Correo | oye pregunta crees que este correo sea virus? | 15m |
+| | General | Te acuerdas de los datos de spark de Elizabeth? | 30m |
 
 ---
 
@@ -195,13 +192,13 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Horarios** | Colocar | poner horario a hugo para este semana |
-| | Revisar | revisar horarios del area de cc |
-| | Corregir | revisar horario, que se resetea a uno incorrecto |
-| **Vacaciones** | Autorizar | autorizar las vacaciones de neto |
-| **Incidencias** | Revisar | revisar solicitud viaticos |
-| **Checadas** | Ayuda | apoyo con checada, ayuda para checar salida |
-| **Técnicos** | Gestión | tecnicos, checar horarios de tecnicos |
+| **Horarios** | Colocar | poner horario a hugo para este semana | 30m |
+| | Revisar | revisar horarios del area de cc | 30m |
+| | Corregir | revisar horario, que se resetea a uno incorrecto | 30m |
+| **Vacaciones** | Autorizar | autorizar las vacaciones de neto | 30m |
+| **Incidencias** | Revisar | revisar solicitud viaticos |30m |
+| **Checadas** | Ayuda | apoyo con checada, ayuda para checar salida | 15m |
+| **Técnicos** | Gestión | tecnicos, checar horarios de tecnicos | 1h |
 
 ---
 
@@ -209,25 +206,15 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Respaldos** | Configurar | configurar rsync tapachula a respaldos |
-| | Ejecutar | actualizar respaldos vallartat |
-| | Recuperar | recurerar respaldo de hermosillo |
-| | Revisar | revisar respaldos GTM |
-| **Sincronización** | Rsync | desarrollo de rsync -precios, rsync de precios |
-| | NAS | revisar sucursal xpuen que no se sincroniza con NAS |
-| | Tablas | copiar tabla pords_ok de tlato a magno2 |
-| **Almacenamiento** | Espacio | crear espacio en ds418, borrando respaldos |
-| | Compresión | compresion de respaldos de correo |
-
----
-
-### 8. PRUEBAS (13)
-
-| Nivel 2 | Nivel 3 | Ejemplo |
-|---------|---------|---------|
-| **Sistema** | Prueba general | prueba (varias), qwe, xxxxxxxxxx |
-| | Título ejemplo | titulo de ejemplo |
-| | Mamamam | mamamam |
+| **Respaldos** | Configurar | configurar rsync tapachula a respaldos | dias |
+| | Ejecutar | actualizar respaldos vallartat | 1h |
+| | Recuperar | recurerar respaldo de hermosillo | 1h |
+| | Revisar | revisar respaldos GTM | 1h
+| **Sincronización** | Rsync | desarrollo de rsync -precios, rsync de precios | meses |
+| | NAS | revisar sucursal xpuen que no se sincroniza con NAS | 1 dia |
+| | Tablas | copiar tabla pords_ok de tlato a magno2 | 15m |
+| **Almacenamiento** | Espacio | crear espacio en ds418, borrando respaldos | 1dia |
+| | Compresión | compresion de respaldos de correo | dias |
 
 ---
 
@@ -235,12 +222,11 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Conectividad** | No conecta | no conecta al servidor de vata |
-| | Conexión fallida | revisar problematica de coneccio |
-| **Software** | Error | falla en coreo, falla en saci de vata |
-| | No funciona | no esta llegando respaldos de tapachula |
-| **Hardware** | Equipo apagado | BUEN DIA el equipo de bcs esta apagado |
-| | Daño | rompi vata, inundacion |
+| **Conectividad** | No conecta | no conecta al servidor de vata | 1h |
+| | Conexión fallida | revisar problematica de coneccio | 1h |
+| **Software** | Error | falla en coreo, falla en saci de vata | 15m |
+| | No funciona | no esta llegando respaldos de tapachula | 30m |
+| **Hardware** | Equipo apagado | BUEN DIA el equipo de bcs esta apagado | 3hr |
 
 ---
 
@@ -248,10 +234,9 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Cursos** | Preparativos | preparar captura de curso silvino |
-| | Descargar material | descargar documentos del curso |
-| **Video** | Capacitación | video capacitacion add y ezaudita |
-| **General** | Capacitación CC | capacitacion cc |
+| **Cursos** | Preparativos | preparar captura de curso silvino | 30m |
+| | Descargar material | descargar documentos del curso | 15m |
+| **Video** | Capacitación | video capacitacion add y ezaudita | 30m |
 
 ---
 
@@ -259,9 +244,8 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Misceláneo** | Tarea variada | apoyo, ayuda, xxxxxxxxxx |
-| **Visita** | Atender | atender visita |
-| **Remoto** | Cerrar | cerrar remoto |
+| **Visita** | Atender | atender visita | 1h |
+| **Remoto** | Cerrar | cerrar remoto | 15m |
 
 ---
 
@@ -269,10 +253,9 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Sistema** | Crear | crear un sistema, crear un sistema de gestion |
-| **Web** | Página | desarrollo de www con richy |
-| **API** | Monitor | crear API para monitor |
-| **Base datos** | PostgreSQL | crear spark de carlos.rodriguez |
+| **Web** | Página | desarrollo de www con richy | 2hr |
+| **API** | Monitor | crear API para monitor | 1dia |
+| **Base datos** | PostgreSQL | crear spark de carlos.rodriguez | 30m |
 
 ---
 
@@ -280,12 +263,12 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Internet** | No llega | visita a almacen para revisar internet |
+| **Internet** | No llega | visita a almacen para revisar internet | 4h |
 | | General | internet distribucion |
-| **WiFi** | Acceso | acceso a wifi |
-| **LAN** | Conexión | apoyar a cambio de red almacen a red vata |
-| | Unidad red | ayudar a que funcioen la unidad de red |
-| **NAS** | Sincronización | revisar sucursal xpuen que no se sincroniza |
+| **WiFi** | Acceso | acceso a wifi | 15m |
+| **LAN** | Conexión | apoyar a cambio de red almacen a red vata | 1dia |
+| | Unidad red | ayudar a que funcioen la unidad de red | 2h |
+| **NAS** | Sincronización | revisar sucursal xpuen que no se sincroniza | 2hr |
 
 ---
 
@@ -293,11 +276,10 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Equipo** | Office | activar office |
-| | Teclado | como activar el teclado |
-| **Servicio** | TeamViewer | que se agregue al teamviewer la cc de cozumel |
-| | Spark | configurar spark, configurar spark y correo |
-| | General | configurar correo extr |
+| **Equipo** | Office | activar office | 15m |
+| | Teclado | como activar el teclado | 30m |
+| **Servicio** | TeamViewer | que se agregue al teamviewer la cc de cozumel | 2h |
+| | Spark | configurar spark, configurar spark y correo | 2h |
 
 ---
 
@@ -305,11 +287,11 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Software** | Contpaq | instalar contpaq |
-| | Office | activando office con metodo power shell |
-| | Agente | instalar agente de bryan |
-| **Hardware** | Impresora | instalacion de impresora dymo |
-| | Terminal | instalar terminal nominas |
+| **Software** | Contpaq | instalar contpaq | 1h |
+| | Office | activando office con metodo power shell | 15m |
+| | Agente | instalar agente de bryan | 15m |
+| **Hardware** | Impresora | instalacion de impresora dymo | 1h |
+| | Terminal | instalar terminal nominas | 30m |
 
 ---
 
@@ -317,10 +299,7 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Cámaras** | Conteo | conteo por camara |
-| | Retroalimentación | Dar retroalimentacion del fallo de las camras |
-| **Cortinas** | Autorización | autorizar cortina M4 suc centro |
-| | Reparación | seguimiento de cortina dañada |
+| **Cámaras** | Conteo | conteo por camara | meses |
 
 ---
 
@@ -328,9 +307,9 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **CRM** | Datos acceso | facilitar datos de CRM |
-| **Zoho** | Explicación | explicar zoho |
-| | Instalación | pedir acceso para zoho |
+| **CRM** | Datos acceso | facilitar datos de CRM | 15m |
+| **Zoho** | Explicación | explicar zoho | 30m |
+| | Instalación | pedir acceso para zoho | 4h |
 
 ---
 
@@ -338,8 +317,8 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Dominio** | Renovación | renovacion de dominio camposreyeros.com |
-| **Hosting** | Recuperar | recuperar dominio aplicare.com.mx |
+| **Dominio** | Renovación | renovacion de dominio camposreyeros.com | 4hr |
+| **Hosting** | Recuperar | recuperar dominio aplicare.com.mx | 2dia |
 
 ---
 
@@ -347,7 +326,7 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Servidor** | Encender | encender servidor respaldos |
+| **Servidor** | Encender | encender servidor respaldos | 
 | **Base datos** | Permisos | dar permiso a tabla r_friedman_cab |
 | | Conexión | no conecta a base de datos |
 
