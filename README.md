@@ -104,26 +104,26 @@
 
 ### 1. CORREO ELECTRÓNICO (66)
 
-| Nivel 2 | Nivel 3 | Ejemplo |
-|---------|---------|---------|
-| **Configuración** | Crear cuenta | crear correo erika.diaz@camposreyeros.com |
-| | Configurar en equipo | configurar correo en equipo especifico |
-| | Configurar en teléfono | ayudar a configurar correo en telefono |
-| | Crear firma | crear firma de correo |
-| | Configurar Spark | configurar spark |
-| **Reparación** | No envía/recibe | mi correo no funciona, no envia ni recibe |
-| | Pide clave | mi correo me pide clave |
-| | No abre | correo no abre |
-| | No conecta | no conecta al servidor de vata |
-| **Mantenimiento** | Bandeja llena | mi correo esta lleno, bandeja al 95% |
-| | Vaciar bandeja | vaciar correo resurtidos.her@cam |
-| | Revisar cola | revisar cola de correo |
-| | Compresión respaldos | compresion de respaldos de correo |
-| **Gestión** | Corte de correo | corte de correo (varias) |
-| | Recuperar correo | recuperar correo arizbet |
-| | Seguimiento | seguimiento de correo |
-| **Seguridad** | Sospecha virus | oye crees que este correo sea virus? |
-| | Correo mal configurado | reportar correo que esta mal configurado |
+| Nivel 2 | Nivel 3 | Ejemplo | Tiempo |
+|---------|---------|---------|---------|
+| **Configuración** | Crear cuenta | crear correo erika.diaz@camposreyeros.com | 30m |
+| | Configurar en equipo | configurar correo en equipo especifico | 30m |
+| | Configurar en teléfono | ayudar a configurar correo en telefono | 30m |
+| | Crear firma | crear firma de correo | 30m |
+| | Configurar Spark | configurar spark | 30m |
+| **Reparación** | No envía/recibe | mi correo no funciona, no envia ni recibe | 1h |
+| | Pide clave | mi correo me pide clave | 30m |
+| | No abre | correo no abre | 1h |
+| | No conecta | no conecta al servidor de vata | 1h |
+| **Mantenimiento** | Bandeja llena | mi correo esta lleno, bandeja al 95% | 15m |
+| | Vaciar bandeja | vaciar correo resurtidos.her@cam | 15m |
+| | Revisar cola | revisar cola de correo | 1hr |
+| | Compresión respaldos | compresion de respaldos de correo | 2dias |
+| **Gestión** | Corte de correo | corte de correo (varias) | 1h |
+| | Recuperar correo | recuperar correo arizbet | 2dias |
+| | Seguimiento | seguimiento de correo | 2h |
+| **Seguridad** | Sospecha virus | oye crees que este correo sea virus? | 15m |
+| | Correo mal configurado | reportar correo que esta mal configurado | 30m |
 
 ---
 
@@ -131,15 +131,15 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Datos de acceso** | Servidor | facilitar datos de acceso al servidor "revisarespgdl" |
-| | Equipo | facilitar datos de acceso al equipo de cursos |
-| | CRM | facilitar datos de acceso a CRM (varias) |
-| | Zoho | pedir acceso para eduardo para zoho |
-| **Contraseñas** | Correo | PONER LA CLAVE DE CORREO EN SPARK |
-| | CRM | poner clave de CRM |
-| | Servicio | facilitar contraseña de lomas del sol crm |
-| **Permisos** | Base de datos | dar permiso a tabla r_friedman_cab |
-| | Servidor | permisos servidor CEDIS de Canovas |
+| **Datos de acceso** | Servidor | facilitar datos de acceso al servidor "revisarespgdl" | 30m |
+| | Equipo | facilitar datos de acceso al equipo de cursos | 30m |
+| | CRM | facilitar datos de acceso a CRM (varias) | 15m |
+| | Zoho | pedir acceso para x para zoho | 6h |
+| **Contraseñas** | Correo | PONER LA CLAVE DE CORREO EN SPARK | 30m |
+| | CRM | poner clave de CRM | 30m |
+| | Servicio | facilitar contraseña de lomas del sol crm | 15m |
+| **Permisos** | Base de datos | dar permiso a tabla r_friedman_cab | 30m |
+| | Servidor | permisos servidor CEDIS de Canovas | 30m |
 
 ---
 
@@ -147,15 +147,14 @@
 
 | Nivel 2 | Nivel 3 | Ejemplo |
 |---------|---------|---------|
-| **Actualización** | Contabilidad | actualizar contpaq contabilidad |
-| | Rebsamen | actualizar contpaq pco y rebsamen |
-| | Tapachula | atualizar contpaq tapachula |
-| | Vata/Sep | actualizar contpaq vata y sep |
-| **Instalación** | Servidor | levantar servidor contpaq |
-| | Estación | instalar contpaq |
-| **Reparación** | No funciona | el remoto gris no abre contpaq contabilidad |
-| | Licencia | se termino la licencia de contpaq facturacion |
-| | Error general | No me deja entrar al Contpaq |
+| **Actualización** | Contabilidad | actualizar contpaq contabilidad | 1h |
+| | Rebsamen | actualizar contpaq pco y rebsamen | dias |
+| | Vata/Sep | actualizar contpaq vata y sep | 1dia |
+| **Instalación** | Servidor | levantar servidor contpaq | 15m |
+| | Estación | instalar contpaq | 1h |
+| **Reparación** | No funciona | el remoto gris no abre contpaq contabilidad | 30m |
+| | Licencia | se termino la licencia de contpaq facturacion | 6h |
+| | Error general | No me deja entrar al Contpaq | 1h |
 
 ---
 
